@@ -1,0 +1,895 @@
+.header{
+
+    width: 100%;
+height: 100px;
+background-color:#f3fcf4;
+}
+.leftsection{
+    width: 50%;
+    height: 100px;
+    float: left;
+
+}
+.rightsection{
+
+width: 50%;
+height: 100px;
+float: left;
+
+}
+body{
+margin: 0%;
+}
+.space1{
+    width: 20px;
+    height: 100px;
+    float: left;
+}
+.Shopify{
+    width: 156px;
+    height: 100px;
+    float: left;
+    margin-left: 57px;
+}
+.icon{
+    width: 112px;
+    margin-top: 12px;
+}
+.start{
+
+    width: 50px;
+    height: 100px;
+    float: left;
+}
+
+.start1{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.Sell{
+width: 88px;
+height: 100px;
+float: left;
+}
+.sell1{
+
+    padding-left: 30px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.Market{
+
+    width: 136px;
+    height: 100px;
+    float: left;
+}
+.market1{
+
+    padding-left: 39px;
+    padding-top: 20px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.Manage{
+
+    width: 125px;
+    height: 100px;
+    float: left;
+}
+
+.manage1{
+
+    padding-top: 20px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 21px;
+
+
+}
+.space2{
+    width: 120px;
+    height: 100%;
+    float: left;
+}
+.Pricing{
+width: 130px;
+height: 100px;
+float: left;
+
+}
+.pricing1{
+    padding-top: 20px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.Learn{
+    width: 101px;
+    height: 100px;
+    float: left;
+}
+.learn1{
+
+    padding-top: 20px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.Login{
+
+    width: 97px;
+    height: 100px;
+    float: left;
+}
+.login1{
+
+    padding-top: 20px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #6b7177;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.Trial{
+
+    width: 182px;
+    height: 100px;
+    float: left;
+}
+.btn{
+
+    width: 144px;
+    height: 40px;
+    margin-top: 24px;
+    background-color: #008060;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    font-weight: 700;
+    font-size: 1em;
+    border-radius: 4px;
+    box-shadow: #6b7177;
+    cursor: pointer;
+}
+.bodyname{
+
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+
+}
+.rightbody{
+
+    width: 50%;
+    height: 1000px;
+    float: left;
+}
+.leftbody{
+
+    width: 50%;
+    height: 1000px;
+    float: left;
+}
+
+.leftbody0{
+    height: 92px;
+    width: 100%;
+}
+
+#aboutus{
+
+    margin-left: 104px;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #6b7177;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    font-size: small;
+
+}
+#leftbody2{
+
+    margin-left: 104px;
+    color: #6b7177;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 0.3em;
+    letter-spacing: -0.0207142857em;
+
+}
+#leftbody3{
+    margin-left: 104px;
+    color: #6b7177;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 0.3em;
+    letter-spacing: -0.0207142857em;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+.space3{
+height: 20px;
+width: 100%;
+
+}
+
+#leftbody4{
+
+    margin-left: 104px;
+    color: #6b7177;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 1.6em;
+    margin-bottom: 0.3em;
+    letter-spacing: -0.0207142857em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.Leftbody5{
+
+    height: 244px;
+    width: 100%;
+}
+.Leftbody6{
+
+}
+#image1{
+    width: 503.625px;
+    height: 424px;
+    margin-left: 156px;
+    cursor: pointer;   
+}
+
+.space4{
+    width: 100%;
+    height: 130px;
+}
+.Image2{
+    height: 398px;
+    width: 100%;
+}
+
+.image3{
+
+    width: 600px;
+    height: 409px;
+    cursor: pointer;
+}
+.space5{
+
+    width: 100%;
+    height: 28px;
+}
+.Writeup{
+    width: 413px;
+    height: 368px;
+}
+.Writeup1{
+
+    height: 16px;
+    width: 100%;
+    background-color:white;
+}
+#shopifystory{
+
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.04375em;
+    display: block;
+    margin-bottom: 1.4285714286em;
+    color: #6b7177;
+    font-size: 0.875em;
+    line-height: 1.1428571429;
+    font-weight: 700;
+    padding-left: 24px;
+
+}
+.Writeup2{
+
+    width: 372px;
+    height: 80px;
+
+}
+.writeup2{
+
+    font-size: 1.875em;
+    font-weight: 700px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    padding-left: 24px;
+}
+.Writeup3{
+    width: 372px;
+    height: 240px;
+}
+.writeup3{
+    font-size: 1.25em;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    display: block;
+    font-weight: lighter;
+    line-height: 1.5em;
+    padding-left: 25px;
+    padding-left: 25px;
+    margin-top: 0px;
+}
+
+.space6{
+
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+.Writeupblock{
+
+    width: 100%;
+    height: 180px;
+    background-color: white;
+}
+.Mission1{
+    height: 16px;
+  width: 773px;
+      margin-inline: auto;
+      display: flex;
+      justify-content: center;
+}
+.mission1{
+    display: flex;
+    justify-content: center;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.04375em;
+    font-weight: 700;
+    font-size: small;
+    color:#6b7177;
+}
+.Mission2{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.mission2{
+
+  
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    font-weight: revert;
+}
+.Mission3{
+
+    height: 90px;
+    width: 100%;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+}
+
+.mission3{
+
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    width: 773px;
+    line-height: 24px;
+    color: #6b7177;
+    display: flex;
+    justify-content: center;
+}
+.Body2{
+
+    width: 100%;
+    height: 935px;
+
+}
+.leftbody8{
+    width: 50%;
+    height: 847px;
+    float: left;
+}
+.rightbody8{
+    width: 50%;
+    height: 817px;
+    float: left;
+}
+.leftbody9{
+    width: 479px;
+    height: 16px;
+  
+}
+.space7{
+
+    width: 100%;
+    height: 90px;
+}
+.leftbody9sub{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    padding-left: 130px;
+    font-weight: 800;
+        font-size: small;
+    color: #6b7177;
+}
+.leftbody10{
+    height: 40px;
+    width: 100%;
+
+}
+
+.leftbody10sub{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    font-weight: 700;
+    color: black;
+    padding-left: 128px;
+
+}
+.leftbody11{
+    width: 100%;
+    height: 180px;
+}
+
+.leftbody11sub{
+    padding-left: 130px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+        line-height: 29px;
+        font-weight: 400;
+    color: #6b7177;
+    width: 100%;
+    height: 200px;
+}
+
+.rightbody9sub{
+
+    width: 360px;
+    height: 117px;
+    margin-top: 212px;
+    margin-left: 155px;
+}
+.rightbody9{
+    width: 514px;
+    height: 330px;
+    background-image: url(video-poster-small-16931e5b1c29b169a9e7eb71a79d1ac0a655ebdc9e0053fc959eaa05cfd50bd7.jpg);
+background-size: 513px ;
+border-radius: 8px;
+}
+.space8{
+
+    width: 100%;
+    height: 115px;
+}
+.leftbody12{
+
+    width: 100%;
+    height: 412px;
+}
+.leftbody13{
+
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    text-transform: uppercase;
+    height: 16px;
+}
+.leftbody13sub{
+
+    padding-left: 130px;
+    padding-left: 130px;
+    font-weight: 800;
+}
+.leftbody14{
+    height: 80px;
+    width: 100%;
+}
+
+.leftbody14sub{
+    padding-left: 130px;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    letter-spacing: 0.04375em;
+    line-height: 34px;
+    padding-top: 14px;
+}
+.leftbody15{
+
+    width: 100%;
+    height: 240px;
+}
+.leftbody15sub{
+
+padding-left: 130px;
+line-height: 29px;
+font-family: ShopifySans, Helvetica, Arial, sans-serif;
+letter-spacing: 0.04375em;
+font-size: 1.25em;
+margin-top: 0px;
+padding-top: 14px;
+}
+.leftbody16{
+width: 100%;
+height: 20px;
+
+}
+.leftbodysub16{
+    padding-left: 130px;
+    color: #004c3f;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+letter-spacing: 0.04375em;
+font-weight: bolder;
+}
+.space9{
+    height: 86px;
+    width: 100%;
+}
+.rightbody10{
+    width: 514px;
+    height: 360px;
+    background-image: url(sustainability-small-9082b3c33fc96c720d3534c0908c622c1ca835cdfccb307ba6c30db8d9c41cc0.jpg);
+    background-size: 527px;
+    border-radius: 10px;
+}
+
+.rightbodysub10{
+    width: 90px;
+    height: 180px;
+    margin-top: -55px;
+
+}
+.Learn-more{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+.learn1{
+
+    color: #004c3f;
+}
+.space10{
+
+    width: 100%;
+    height: 50px;
+}
+
+.bottomblock{
+width: 1210px;
+height: 300px;
+border-color: black;
+margin-left: 79px;
+
+}
+.block1{
+
+    width: 403px;
+    height: 100%;
+    float: left;
+}
+.blockrow1{
+
+    width: 100%;
+    height: 100px;
+}
+.blockrow2{
+    width: 100%;
+    height: 26px;
+
+}
+.blockrow3{
+    width: 100%;
+    height: 52px;
+}
+.blockrow4{
+    width: 100%;
+    height: 100px;
+}
+
+.blockrowsub2{
+
+    font-weight: 500;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+.blockrowsub3{
+
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    max-width: 20em;
+    color: #42474c;
+}
+.blockrowsub4{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #42474c;
+    cursor: pointer;
+}
+.space11{
+    width: 100%;
+    height: 100px;
+}
+.try{
+    width: 100%;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+}
+.try1{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 1.5em;
+    margin: 0;
+}
+.try2{
+    width: 100%;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+}
+.try3{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 1.5em;
+    margin: 0;
+}
+.space12{
+    width: 100%;
+    height: 50px;
+}
+
+.button{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center
+}
+.btn1{
+
+    margin: 0;
+    width: 144px;
+    height: 40px;
+    background-color: #008060;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    font-weight: 700;
+    font-size: 1em;
+    border-radius: 4px;
+    box-shadow: #6b7177;
+    cursor: pointer;
+}
+.space13{
+
+    width: 100%;
+    height: 80px;
+}
+.green{
+    height: 66px;
+    width: 100%;
+    background-color:#004c3f;
+}
+.space14{
+width: 66px;
+height: 100%;
+float: left;
+}
+.A{
+    width: 50px;
+    height: 100%;
+    float: left;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+
+}
+.B{
+width: 80px;
+height: 100%;
+float: left;
+font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+}
+.C{
+    width: 130px;
+    height: 100%;
+    float: left;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+}
+.D{
+    width: 121px;
+    height: 100%;
+    float: left;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+
+}
+.E{
+    width: 62px;
+    height: 100%;
+    float: left;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+}
+.a{
+    padding-top: 6px;
+}
+.b{
+    padding-left: 9px;
+    padding-top: 6px;
+}
+.d{
+    padding-left: 11px;
+    padding-top: 6px;
+}
+.c{
+    padding-top: 6px;
+}
+.e{
+    padding-top: 6px;
+}
+.borderline{
+    border-top: 1px;
+    border-color:  #6b7177;
+}
+
+.boxtypedata{
+    width: 100%;
+    height: 434px;
+    background-color: #004c3f;
+    color: white;
+
+}
+.leftbox{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.rightbox{
+    width: 50%;
+    height: 100%;
+    float: left;
+    margin-top: 0px;
+}
+.left1box{
+    width: 82%;
+    height: 20px;
+}
+.left1boxsub{
+
+    font-weight: 800;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: small;
+    letter-spacing: -1px;
+    padding-left: 62px;
+}
+.left2box{
+    width: 100%;
+    height: 400px;
+}
+.left2boxsub1{
+    width: 200px;
+    height: 100%;
+    float: left;
+    font-family: sans-serif;
+    padding-left: 22px;
+    font-size: small;
+    cursor: pointer;
+}
+.right1box{
+    width: 100%;
+    height: 20px;
+}
+.rightboxdivide{
+    width: 33%;
+    height: 100%;
+    float: left;
+    margin-top: 9px;
+}
+.right2box{
+    width: 100%;
+    height: 400px;
+}
+.rightboxsub1{
+    font-weight: 800;
+    font-size: small;
+    letter-spacing: -1px;
+    font-size: small;
+    font-family: sans-serif;
+    padding-left: 19px;
+}
+.rightboxsame1{
+    font-size: small;
+    font-family: sans-serif;
+}
+.rightboxsame2{
+    font-size: small;
+    font-family: sans-serif;
+}
+.rightboxsame3{
+    padding-left: 73px;
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.rightboxsub2{
+    font-weight: 800;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: small;
+    letter-spacing: -1px;
+    padding-left:39px;
+}
+.rightboxsub3{
+    font-weight: 800;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: small;
+    letter-spacing: -1px;
+    padding-left: 38px;
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    justify-content: end;
+    background-color: #004c3f;
+}
+.footer1{
+    padding-right: 28px;
+    
+    font-size: 1em;
+    line-height: 1.5;
+    color: whitesmoke;
+    font-weight: 400;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.footer2{
+    padding-right: 28px;
+    
+    font-size: 1em;
+    line-height: 1.5;
+    color: whitesmoke;
+    font-weight: 400;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.footer3{
+    
+    font-size: 1em;
+    line-height: 1.5;
+    color: whitesmoke;
+    font-weight: 800px;
+    font-family: sans-serif;
+    background-color: #004c3f;
+    cursor: pointer;
+    
+}
